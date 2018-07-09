@@ -58,6 +58,8 @@
     if (isOk)
     {
         NSLog(@"注册微信成功");
+        NSLog(@"注册微信成功");
+
     }
     else
     {
